@@ -13,8 +13,8 @@ export default function Home() {
 <HeroSection/>
 <FeaturedCourses/>
 <WhyChooseUs/>
-<MusicSchoolTestimonials/>
-<UpcomingWebinars/>
+{/* <MusicSchoolTestimonials/>
+<UpcomingWebinars/> */}
 <Instructors/>
 <Footer/>
 </main>
